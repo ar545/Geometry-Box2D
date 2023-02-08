@@ -191,6 +191,7 @@
     <ClInclude Include="..\..\source\GLGameScene.h" />
     <ClInclude Include="..\..\source\GLInputController.h" />
     <ClInclude Include="..\..\source\GLLoadingScene.h" />
+    <ClInclude Include="GLStar.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
@@ -199,6 +200,7 @@
     <ClCompile Include="..\..\source\GLInputController.cpp" />
     <ClCompile Include="..\..\source\GLLoadingScene.cpp" />
     <ClCompile Include="..\..\source\main.cpp" />
+    <ClCompile Include="GLStar.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Geometry.rc" />
